@@ -30,7 +30,7 @@ We used SHAP (SHapley Additive exPlanations) on the final Random Forest model to
 
 ### SHAP Analysis
 ![SHAP Feature Importance](assets/shap_feature_importance.png)
-![SHAP Beeswarm Plot](assets/shap_globa;_beeswarm.png)
+![SHAP Beeswarm Plot](assets/shap_global_beeswarm.png)
 ![SHAP Waterfall Plot](assets/shap_local_wf.png)
 
 #### Positive Drivers (The Success Profile): 
