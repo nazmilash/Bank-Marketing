@@ -54,3 +54,10 @@ Strategic Segmentation: Implement a tiered marketing approach based on SHAP insi
   Prioritize leads with the highest positive feature contributions.
   Segment leads with high negative contributions into a lower-cost "nurture" track, saving resources.
 Future Feature Engineering: The model is capped at 46% F1 until features are engineered to better represent the quality of historical client engagement.
+
+### Acknowledgements and Protocol Disclosure
+This project utilized the Google Gemini AI Language Model (Flash 2.5) for advanced code troubleshooting and final report structuring (specifically the SHAP alignment logic and final model justification).
+
+Per the academic honesty policy, the **full chat protocol** detailing the step-by-step guidance and technical solutions is available for review in the project's appendix:
+
+**Full Protocol Link:** (https://gemini.google.com/share/9e0bd17cf243)
